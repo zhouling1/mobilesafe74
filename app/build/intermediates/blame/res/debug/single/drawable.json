@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable/selector_reset_setup_bg.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable/selector_reset_setup_bg.xml"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable/reset_setup_bg_press.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable/reset_setup_bg_press.xml"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable/selector_next_btn_bg.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable/selector_next_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable/selector_number_btn_bg.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable/selector_number_btn_bg.xml"
+    }
+]

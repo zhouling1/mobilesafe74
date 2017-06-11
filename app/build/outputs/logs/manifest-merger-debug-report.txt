@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:13:5-15:41
+	android:targetSdkVersion
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:15:9-38
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:14:9-34
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:22:22-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:25:22-77
+application
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:27:5-70:19
+	android:label
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:31:9-40
+activity#com.itheima.mobilesafe74.activity.SplashActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:33:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.itheima.mobilesafe74.activity.HomeActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:41:9-59
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:41:19-56
+activity#com.itheima.mobilesafe74.activity.SettingActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:42:9-62
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:42:19-59
+activity#com.itheima.mobilesafe74.activity.TestActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:43:9-59
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:43:19-56
+activity#com.itheima.mobilesafe74.activity.SetupOverActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:44:9-64
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:44:19-61
+activity#com.itheima.mobilesafe74.activity.Setup1Activity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:45:9-61
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:45:19-58
+activity#com.itheima.mobilesafe74.activity.Setup2Activity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:46:9-61
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:46:19-58
+activity#com.itheima.mobilesafe74.activity.Setup3Activity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:47:9-61
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:47:19-58
+activity#com.itheima.mobilesafe74.activity.Setup4Activity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:48:9-61
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:48:19-58
+activity#com.itheima.mobilesafe74.activity.ContactListActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:49:9-66
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:49:19-63
+activity#com.itheima.mobilesafe74.activity.ToolActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:50:9-58
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:50:19-56
+activity#com.itheima.mobilesafe74.activity.QuryAddressActivity
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:51:9-65
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:51:19-63
+receiver#com.itheima.mobilesafe74.receiver.BootReceiver
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:53:9-57:20
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:53:19-56
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:54:13-56:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:55:25-76
+receiver#com.itheima.mobilesafe74.receiver.MSMReceiver
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:58:9-66:20
+	android:enabled
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:60:13-35
+	android:exported
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:59:13-49
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:62:13-65:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:63:17-89
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:63:25-79
+service#com.itheima.mobilesafe74.service.LocationService
+ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:69:9-68
+	android:name
+		ADDED from /Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/AndroidManifest.xml:69:18-57

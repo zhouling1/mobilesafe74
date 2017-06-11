@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_taskmanager.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_taskmanager.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bind.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/bind.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/previous.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/previous.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/launcher_bg.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/launcher_bg.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_sysoptimize.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_sysoptimize.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unlock.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/unlock.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_callmsgsafe.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_callmsgsafe.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_netmanager.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_netmanager.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_trojan.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_trojan.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/lock.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_settings.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_settings.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setup1.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/setup1.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_tools.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_tools.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_safe.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_safe.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_apps.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/home_apps.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/listview_divider.png",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-hdpi/listview_divider.png"
+    }
+]
