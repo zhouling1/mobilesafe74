@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/anim/pre_out_anim.xml",
-        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/anim/pre_out_anim.xml"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pre_out_anim.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\anim\\pre_out_anim.xml"
     },
     {
-        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/anim/pre_in_anim.xml",
-        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/anim/pre_in_anim.xml"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\next_out_anim.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\anim\\next_out_anim.xml"
     },
     {
-        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/anim/next_in_anim.xml",
-        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/anim/next_in_anim.xml"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pre_in_anim.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\anim\\pre_in_anim.xml"
     },
     {
-        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/anim/next_out_anim.xml",
-        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/anim/next_out_anim.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\next_out_anim.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\anim\\next_out_anim.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pre_in_anim.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\anim\\pre_in_anim.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\next_in_anim.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\anim\\next_in_anim.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pre_out_anim.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\anim\\pre_out_anim.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\anim\\next_in_anim.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\anim\\next_in_anim.xml"
     }
 ]

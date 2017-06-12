@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]
