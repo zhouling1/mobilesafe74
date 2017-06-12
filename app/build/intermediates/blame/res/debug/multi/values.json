@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 394
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 503
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 553
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -145,7 +145,7 @@
                     "endOffset": 897
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -166,7 +166,7 @@
                     "endOffset": 1148
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -187,7 +187,7 @@
                     "endOffset": 1569
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -208,7 +208,7 @@
                     "endOffset": 2100
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 1,
@@ -229,7 +229,7 @@
                     "endOffset": 2631
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 1,
@@ -243,7 +243,7 @@
         ]
     },
     {
-        "outputFile": "E:\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -254,7 +254,250 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 93,
+                        "endColumn": 40,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 36,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 37,
+                        "endOffset": 88
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 57,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 55,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 52,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 49,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 49,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 52,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endLine": 40,
+                    "endColumn": 9,
+                    "endOffset": 2100
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 2460,
+                        "endLine": 68,
+                        "endColumn": 9,
+                        "endOffset": 2995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2105,
+                    "endLine": 50,
+                    "endColumn": 9,
+                    "endOffset": 2631
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1922,
+                        "endLine": 58,
+                        "endColumn": 9,
+                        "endOffset": 2457
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -273,7 +516,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -292,7 +535,7 @@
                     "endOffset": 394
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -311,7 +554,7 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -330,7 +573,7 @@
                     "endOffset": 503
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -349,7 +592,7 @@
                     "endOffset": 553
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -368,7 +611,7 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -388,7 +631,7 @@
                     "endOffset": 897
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -409,7 +652,7 @@
                     "endOffset": 1148
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -430,7 +673,7 @@
                     "endOffset": 1569
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -451,7 +694,7 @@
                     "endOffset": 2100
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 1,
@@ -472,7 +715,7 @@
                     "endOffset": 2631
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 1,

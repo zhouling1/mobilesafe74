@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "E:\\mobilesafe74\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,31 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/values-sw720dp-land/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

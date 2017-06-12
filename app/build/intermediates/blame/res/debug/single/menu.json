@@ -1,10 +1,14 @@
 [
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/zhouling/Downloads/zxing-master/mobilesafe74/E:\\mobilesafe74\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
