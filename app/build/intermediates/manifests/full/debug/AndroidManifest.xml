@@ -66,6 +66,10 @@
         </receiver>
 
         <service android:name="com.itheima.mobilesafe74.service.LocationService" />
+        <service
+            android:name="com.itheima.mobilesafe74.service.AddressService"
+            android:enabled="true"
+            android:exported="true" />
     </application>
 
 </manifest>
