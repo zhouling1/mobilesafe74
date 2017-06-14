@@ -54,6 +54,7 @@
         <activity android:name="com.itheima.mobilesafe74.activity.ContactListActivity" />
         <activity android:name="com.itheima.mobilesafe74.activity.ToolActivity" />
         <activity android:name="com.itheima.mobilesafe74.activity.QuryAddressActivity" />
+        <activity android:name="com.itheima.mobilesafe74.activity.LocationActivity" />
 
         <receiver android:name="com.itheima.mobilesafe74.receiver.BootReceiver" >
             <intent-filter>

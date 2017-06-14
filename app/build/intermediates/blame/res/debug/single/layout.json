@@ -36,12 +36,12 @@
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
-    },
-    {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
@@ -52,12 +52,12 @@
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
-    },
-    {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
@@ -206,6 +206,10 @@
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_toast_location.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_toast_location.xml"
     },
     {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",

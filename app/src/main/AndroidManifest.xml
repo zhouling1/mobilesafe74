@@ -54,7 +54,7 @@
         <activity android:name=".activity.ContactListActivity" />
         <activity android:name=".activity.ToolActivity" />
         <activity android:name=".activity.QuryAddressActivity" />
-
+       <activity android:name=".activity.LocationActivity"/>
         <receiver android:name=".receiver.BootReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />

@@ -12,12 +12,16 @@
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drag.bmp",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\drag.bmp"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_trojan.png",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_callmsgsafe.png",
@@ -28,12 +32,12 @@
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_sysoptimize.png",
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_tools.png",

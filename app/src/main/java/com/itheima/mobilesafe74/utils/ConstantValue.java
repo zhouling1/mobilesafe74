@@ -1,5 +1,7 @@
 package com.itheima.mobilesafe74.utils;
 
+import android.content.Context;
+
 public class ConstantValue {
     /**
      * 是否开启更新的key
@@ -34,5 +36,14 @@ public class ConstantValue {
     /*
      * 显示电话归属地的key，开关
      * */
-    public static final String OPEN_CALLLocation="open_calllocation";
+    public static final String OPEN_CALLLocation = "open_calllocation";
+
+    /*
+    *来电显示位置X
+    * */
+    public static final String LOCATIONX = "location";
+    /*
+    * 来电显示位置Y
+    * */
+    public static final String LOCATIONY="location";
 }

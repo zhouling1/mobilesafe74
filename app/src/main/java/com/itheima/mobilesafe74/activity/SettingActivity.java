@@ -5,6 +5,7 @@ import com.itheima.mobilesafe74.service.AddressService;
 import com.itheima.mobilesafe74.utils.ConstantValue;
 import com.itheima.mobilesafe74.utils.ServiceUtils;
 import com.itheima.mobilesafe74.utils.SpUtil;
+import com.itheima.mobilesafe74.view.SettingClickView;
 import com.itheima.mobilesafe74.view.SettingItemView;
 
 import android.app.Activity;
@@ -20,11 +21,21 @@ public class SettingActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_setting);
-
         initUpdate();
         initAddress();
+        initToastLocation();
     }
 
+    private void initToastLocation() {
+        SettingClickView scv_location= (SettingClickView) findViewById(R.id.scv_location);
+        scv_location.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(SettingActivity.this,LocationActivity.class));
+            }
+        });
+
+    }
     /**
      * 版本更新开关
      */
