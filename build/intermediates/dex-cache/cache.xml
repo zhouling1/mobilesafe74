@@ -3,21 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/libs/xUtils-2.6.14.jar"
+        jar="E:\mobilesafe74\app\libs\xUtils-2.6.14.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/pre-dexed/debug/xUtils-2.6.14_8f22013926d73fb3fdde795471abbdb7acf450c5.jar" />
+        <dex dex="E:\mobilesafe74\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_7b1154be1e7494c5159b26e5ee401b7f8bd693ac.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/androidsdk/androidsdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/zhouling/Downloads/zxing-master/mobilesafe74/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_b3160ab3fa69a9c3c9bb294cf862b6957c0a015f.jar" />
+        <dex dex="E:\mobilesafe74\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
     </item>
 
 </items>

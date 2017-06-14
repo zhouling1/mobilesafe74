@@ -8,184 +8,224 @@
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup1.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup1.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
-    },
-    {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
-    },
-    {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup1.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
-    },
-    {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup4.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup4.xml"
-    },
-    {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_click_view.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_click_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
-    },
-    {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
     },
     {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
     },
     {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
-    },
-    {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup1.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup4.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup3.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup3.xml"
     },
     {
-        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
-        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
         "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
         "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_psd.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup_over.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup_over.xml"
+    },
+    {
+        "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mtoast.xml",
+        "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\layout_mtoast.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup3.xml"
     },
     {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
@@ -196,28 +236,16 @@
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atool.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_atool.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contact_item.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\listview_contact_item.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_contact_list.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup2.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
+        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
     },
     {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
@@ -228,31 +256,11 @@
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_psd.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
-    },
-    {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
     },
     {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
-    },
-    {
         "merged": "E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
         "source": "E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setup4.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_address.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_query_address.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\E:\\Users\\zhouling\\Downloads\\zxing-master\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
     }
 ]

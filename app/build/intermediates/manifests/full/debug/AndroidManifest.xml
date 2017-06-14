@@ -9,6 +9,7 @@
 			最后的一位:代表修复原有版本的bug
 			倒数第二位:更新部分功能
 			第一位:项目重大更新(代码重构,大部分功能添加,界面整体修改)
+			android.permission.SYSTEM_ALERT_WINDOW
     -->
     <uses-sdk
         android:minSdkVersion="14"
@@ -24,6 +25,9 @@
     <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- 窗体挂载 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <application
         android:allowBackup="true"

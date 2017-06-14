@@ -47,18 +47,29 @@
 	    mobilesafe:desoff="自动更新已关闭"
 	    mobilesafe:deson="自动更新已开启">
 	</com.itheima.mobilesafe74.view.SettingItemView>
-	<!-- <com.itheima.mobilesafe74.view.SettingItemView
+	<com.itheima.mobilesafe74.view.SettingItemView
+		android:id="@+id/siv_Calllocation"
 	    xmlns:mobilesafe="http://schemas.android.com/apk/res/com.itheima.mobilesafe74"
 	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
 	    mobilesafe:destitle="电话归属地的显示设置"
 	    mobilesafe:desoff="归属地的显示已关闭"
 	    mobilesafe:deson="归属地的显示已开启">
-	</com.itheima.mobilesafe74.view.SettingItemView> -->
-	<!-- SettingItemView需要在构建布局的时候指定title和des字符串内容 -->
-	<!-- 自定义属性 -->
-	<!-- <com.itheima.mobilesafe74.view.SettingItemView
-	    android:layout_width="match_parent"
-	    android:layout_height="wrap_content">
-	</com.itheima.mobilesafe74.view.SettingItemView> -->
+	</com.itheima.mobilesafe74.view.SettingItemView>
+	<com.itheima.mobilesafe74.view.SettingClickView
+		xmlns:mobilesafe="http://schemas.android.com/apk/res/com.itheima.mobilesafe74"
+		android:id="@+id/scv_toast_style"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		mobilesafe:mDesTitle="归属地提示框的位置"
+		mobilesafe:mDesContent="设置归属地提示框的位置">
+	</com.itheima.mobilesafe74.view.SettingClickView>
+	<com.itheima.mobilesafe74.view.SettingClickView
+		android:id="@+id/scv_location"
+		xmlns:mobilesafe="http://schemas.android.com/apk/res/com.itheima.mobilesafe74"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		mobilesafe:mDesTitle="设置归属地显示风格"
+		>
+	</com.itheima.mobilesafe74.view.SettingClickView>
 </LinearLayout>

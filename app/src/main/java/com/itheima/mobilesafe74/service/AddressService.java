@@ -24,14 +24,21 @@ public class AddressService extends Service {
     private TextView tv_toast;
     @Override
     public IBinder onBind(Intent intent) {
+        return null;
+    }
+
+    @Override
+    public void onCreate() {
         //监听来电状态
+        System.out.println("服务开启");
         mTeleManger = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
         listener = new MyPhoneStateListener();
         mTeleManger.listen(listener, PhoneStateListener.LISTEN_CALL_STATE);
         mWManager= (WindowManager) getSystemService(Context.WINDOW_SERVICE);
-        return null;
     }
+
     public void show(String phoneNumber){
+        System.out.println("显示窗体");
         final WindowManager.LayoutParams params = mParams;
         params.height = WindowManager.LayoutParams.WRAP_CONTENT;
         params.width = WindowManager.LayoutParams.WRAP_CONTENT;
@@ -54,12 +61,19 @@ public class AddressService extends Service {
     private class MyPhoneStateListener extends PhoneStateListener {
         @Override
         public void onCallStateChanged(int state, String incomingNumber) {
+            //响铃显示吐司，挂断之后移除
             switch (state) {
                 case TelephonyManager.CALL_STATE_IDLE:
+                    if(mTeleManger!=null&listener!=null){
+                        mTeleManger.listen(listener,PhoneStateListener.LISTEN_NONE);
+                    }
                     break;
                 case TelephonyManager.CALL_STATE_OFFHOOK:
+
+
                     break;
                 case TelephonyManager.CALL_STATE_RINGING:
+                    show("jfla");
                     break;
                 default:
                     break;

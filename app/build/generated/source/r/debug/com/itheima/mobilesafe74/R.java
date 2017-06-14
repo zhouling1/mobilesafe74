@@ -24,7 +24,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int desoff=0x7f010001;
+        public static final int desoff=0x7f010003;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -32,7 +32,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int deson=0x7f010002;
+        public static final int deson=0x7f010004;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -40,7 +40,23 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int destitle=0x7f010000;
+        public static final int destitle=0x7f010002;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int mDesContent=0x7f010001;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int mDesTitle=0x7f010000;
     }
     public static final class color {
         public static final int huang=0x7f080000;
@@ -62,45 +78,52 @@ containing a value of this type.
         public static final int home_tools=0x7f020008;
         public static final int home_trojan=0x7f020009;
         public static final int ic_launcher=0x7f02000a;
-        public static final int launcher_bg=0x7f02000b;
-        public static final int listview_divider=0x7f02000c;
-        public static final int lock=0x7f02000d;
-        public static final int next=0x7f02000e;
-        public static final int phone=0x7f02000f;
-        public static final int previous=0x7f020010;
-        public static final int reset_setup_bg_press=0x7f020011;
-        public static final int selector_next_btn_bg=0x7f020012;
-        public static final int selector_number_btn_bg=0x7f020013;
-        public static final int selector_reset_setup_bg=0x7f020014;
-        public static final int setup1=0x7f020015;
-        public static final int unlock=0x7f020016;
+        public static final int jiantoupressed=0x7f02000b;
+        public static final int launcher_bg=0x7f02000c;
+        public static final int listview_divider=0x7f02000d;
+        public static final int lock=0x7f02000e;
+        public static final int next=0x7f02000f;
+        public static final int phone=0x7f020010;
+        public static final int previous=0x7f020011;
+        public static final int reset_setup_bg_press=0x7f020012;
+        public static final int selector_next_btn_bg=0x7f020013;
+        public static final int selector_number_btn_bg=0x7f020014;
+        public static final int selector_reset_setup_bg=0x7f020015;
+        public static final int setup1=0x7f020016;
+        public static final int unlock=0x7f020017;
     }
     public static final class id {
-        public static final int action_settings=0x7f0b0018;
-        public static final int bt_cancel=0x7f0b0012;
+        public static final int action_settings=0x7f0b001e;
+        public static final int bt_cancel=0x7f0b0015;
         public static final int bt_query=0x7f0b0004;
-        public static final int bt_select_number=0x7f0b0009;
-        public static final int bt_submit=0x7f0b0011;
-        public static final int cb_box=0x7f0b000a;
-        public static final int et_confirm_psd=0x7f0b0010;
+        public static final int bt_select_number=0x7f0b000c;
+        public static final int bt_submit=0x7f0b0014;
+        public static final int cb_box=0x7f0b000d;
+        public static final int et_confirm_psd=0x7f0b0013;
         public static final int et_phone=0x7f0b0003;
-        public static final int et_phone_number=0x7f0b0008;
-        public static final int et_set_psd=0x7f0b0013;
+        public static final int et_phone_number=0x7f0b000b;
+        public static final int et_set_psd=0x7f0b0016;
         public static final int gv_home=0x7f0b0002;
-        public static final int iv_icon=0x7f0b0014;
-        public static final int iv_lock=0x7f0b000c;
+        public static final int iv_icon=0x7f0b0017;
+        public static final int iv_image=0x7f0b001d;
+        public static final int iv_lock=0x7f0b000f;
         public static final int lv_contact=0x7f0b0001;
-        public static final int rl_root=0x7f0b000e;
-        public static final int siv_sim_bound=0x7f0b0007;
+        public static final int rl_root=0x7f0b0011;
+        public static final int scv_location=0x7f0b0009;
+        public static final int scv_toast_style=0x7f0b0008;
+        public static final int siv_Calllocation=0x7f0b0007;
+        public static final int siv_sim_bound=0x7f0b000a;
         public static final int siv_update=0x7f0b0006;
-        public static final int tv_des=0x7f0b0017;
-        public static final int tv_name=0x7f0b0016;
-        public static final int tv_phone=0x7f0b000b;
+        public static final int tv_des=0x7f0b001c;
+        public static final int tv_name=0x7f0b001a;
+        public static final int tv_phone=0x7f0b000e;
         public static final int tv_query_phone_address=0x7f0b0000;
         public static final int tv_query_result=0x7f0b0005;
-        public static final int tv_reset_setup=0x7f0b000d;
-        public static final int tv_title=0x7f0b0015;
-        public static final int tv_version_name=0x7f0b000f;
+        public static final int tv_reset_setup=0x7f0b0010;
+        public static final int tv_title=0x7f0b0018;
+        public static final int tv_titleContent=0x7f0b001b;
+        public static final int tv_toast=0x7f0b0019;
+        public static final int tv_version_name=0x7f0b0012;
     }
     public static final class layout {
         public static final int activity_atool=0x7f030000;
@@ -117,8 +140,10 @@ containing a value of this type.
         public static final int dialog_confirm_psd=0x7f03000b;
         public static final int dialog_set_psd=0x7f03000c;
         public static final int gridview_item=0x7f03000d;
-        public static final int listview_contact_item=0x7f03000e;
-        public static final int setting_item_view=0x7f03000f;
+        public static final int layout_mtoast=0x7f03000e;
+        public static final int listview_contact_item=0x7f03000f;
+        public static final int setting_click_view=0x7f030010;
+        public static final int setting_item_view=0x7f030011;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
@@ -134,11 +159,6 @@ containing a value of this type.
     public static final class style {
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f070000;
         public static final int AppTheme=0x7f070001;
@@ -147,6 +167,49 @@ containing a value of this type.
         public static final int preBtn=0x7f070004;
     }
     public static final class styleable {
+        /** Attributes that can be used with a com_itheima_mobilesafe74_view_SettingClickView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #com_itheima_mobilesafe74_view_SettingClickView_mDesContent com.itheima.mobilesafe74:mDesContent}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_itheima_mobilesafe74_view_SettingClickView_mDesTitle com.itheima.mobilesafe74:mDesTitle}</code></td><td></td></tr>
+           </table>
+           @see #com_itheima_mobilesafe74_view_SettingClickView_mDesContent
+           @see #com_itheima_mobilesafe74_view_SettingClickView_mDesTitle
+         */
+        public static final int[] com_itheima_mobilesafe74_view_SettingClickView = {
+            0x7f010000, 0x7f010001
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.itheima.mobilesafe74.R.attr#mDesContent}
+          attribute's value can be found in the {@link #com_itheima_mobilesafe74_view_SettingClickView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.itheima.mobilesafe74:mDesContent
+        */
+        public static final int com_itheima_mobilesafe74_view_SettingClickView_mDesContent = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.itheima.mobilesafe74.R.attr#mDesTitle}
+          attribute's value can be found in the {@link #com_itheima_mobilesafe74_view_SettingClickView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.itheima.mobilesafe74:mDesTitle
+        */
+        public static final int com_itheima_mobilesafe74_view_SettingClickView_mDesTitle = 0;
         /** Attributes that can be used with a com_itheima_mobilesafe74_view_SettingItemView.
            <p>Includes the following attributes:</p>
            <table>
@@ -162,7 +225,7 @@ containing a value of this type.
            @see #com_itheima_mobilesafe74_view_SettingItemView_destitle
          */
         public static final int[] com_itheima_mobilesafe74_view_SettingItemView = {
-            0x7f010000, 0x7f010001, 0x7f010002
+            0x7f010002, 0x7f010003, 0x7f010004
         };
         /**
           <p>This symbol is the offset where the {@link com.itheima.mobilesafe74.R.attr#desoff}

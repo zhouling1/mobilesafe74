@@ -2,6 +2,7 @@
 <resources>
     <color name="huang">#ffff00</color>
     <color name="lu">#00ff00</color>
+    <declare-styleable name="com.itheima.mobilesafe74.view.SettingClickView"><attr format="string" name="mDesTitle"/><attr format="string" name="mDesContent"/></declare-styleable>
     <declare-styleable name="com.itheima.mobilesafe74.view.SettingItemView"><attr format="string" name="destitle"/><attr format="string" name="desoff"/><attr format="string" name="deson"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
@@ -9,15 +10,11 @@
     <string name="app_name">mobilesafe74</string>
     <string name="hello_world">Hello world!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- 在去头的同时,还保留高版本的样式主题 -->
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
+        
         <item name="android:windowNoTitle">true</item>
     </style>
     <style name="TitleStyle">
