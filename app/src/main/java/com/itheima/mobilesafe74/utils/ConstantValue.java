@@ -41,9 +41,9 @@ public class ConstantValue {
     /*
     *来电显示位置X
     * */
-    public static final String LOCATIONX = "location";
+    public static final String LOCATIONX = "locationx";
     /*
     * 来电显示位置Y
     * */
-    public static final String LOCATIONY="location";
+    public static final String LOCATIONY="locationy";
 }

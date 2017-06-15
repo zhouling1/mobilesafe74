@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jun 14 20:01:32 CST 2017
+#Thu Jun 15 17:03:46 CST 2017
 5.base=E\:\\mobilesafe74\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=E\:\\mobilesafe74\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE

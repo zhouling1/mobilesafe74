@@ -24,10 +24,18 @@ public class SettingActivity extends Activity {
         initUpdate();
         initAddress();
         initToastLocation();
+        initToastStyle();
+    }
+
+    private void initToastStyle() {
+        final SettingClickView scv_toast_style= (SettingClickView) findViewById(R.id.scv_toast_style);
+
+
+
     }
 
     private void initToastLocation() {
-        SettingClickView scv_location= (SettingClickView) findViewById(R.id.scv_location);
+        final SettingClickView scv_location= (SettingClickView) findViewById(R.id.scv_location);
         scv_location.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {

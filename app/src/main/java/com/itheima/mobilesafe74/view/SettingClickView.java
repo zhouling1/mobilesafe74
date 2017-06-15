@@ -49,7 +49,11 @@ public class SettingClickView extends RelativeLayout {
 * */
         title=attrs.getAttributeValue(NAMESPACE,"mDesTitle");
         content=attrs.getAttributeValue(NAMESPACE,"mDesContent");
-
-
     }
+
+
+    public void setTv_dec(String tv_deccontent){
+        tv_dec.setText(tv_deccontent);
+    }
+
 }

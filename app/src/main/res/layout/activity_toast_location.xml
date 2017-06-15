@@ -14,8 +14,8 @@
 	    android:layout_width="match_parent"
 	    android:text="按中提示框拖拽到任意位置"
 	    android:gravity="center"
-	    android:visibility="invisible"
-	    android:background="#f6A745"
+		android:visibility="invisible"
+	    android:background="#B9C775"
         android:layout_height="wrap_content"/>
 	<Button 
 	    android:layout_alignParentBottom="true"
