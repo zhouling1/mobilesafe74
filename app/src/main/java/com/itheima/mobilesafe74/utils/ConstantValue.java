@@ -46,4 +46,5 @@ public class ConstantValue {
     * 来电显示位置Y
     * */
     public static final String LOCATIONY="locationy";
+    public static final String TOASTSTYLE = "toaststyle";
 }

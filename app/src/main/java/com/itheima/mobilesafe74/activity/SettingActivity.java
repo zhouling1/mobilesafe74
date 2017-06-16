@@ -9,13 +9,19 @@ import com.itheima.mobilesafe74.view.SettingClickView;
 import com.itheima.mobilesafe74.view.SettingItemView;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.app.Service;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 
 public class SettingActivity extends Activity {
+    private String[] myToastStyleSelect;
+
+    private int myToastStyle;
+    private  SettingClickView scv_toast_style;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,22 +34,53 @@ public class SettingActivity extends Activity {
     }
 
     private void initToastStyle() {
-        final SettingClickView scv_toast_style= (SettingClickView) findViewById(R.id.scv_toast_style);
-
-
-
-    }
-
-    private void initToastLocation() {
-        final SettingClickView scv_location= (SettingClickView) findViewById(R.id.scv_location);
-        scv_location.setOnClickListener(new OnClickListener() {
+        scv_toast_style = (SettingClickView) findViewById(R.id.scv_toast_style);
+        myToastStyleSelect = new String[]{"透明", "橙色", "蓝色", "灰色", "绿色"};
+        myToastStyle = SpUtil.getInt(SettingActivity.this, ConstantValue.TOASTSTYLE, 0);
+        scv_toast_style.setTv_dec(myToastStyleSelect[myToastStyle]);
+        scv_toast_style.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(SettingActivity.this,LocationActivity.class));
+                showToastStyleDialog();
             }
         });
 
     }
+
+    private void showToastStyleDialog() {
+
+        AlertDialog.Builder builder=new AlertDialog.Builder(this);
+        builder.setIcon(R.drawable.home_safe);
+        builder.setTitle("请选择归属地样式");
+
+        builder.setSingleChoiceItems(myToastStyleSelect, myToastStyle, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                SpUtil.putInt(SettingActivity.this,ConstantValue.TOASTSTYLE,which);
+                dialog.dismiss();
+                scv_toast_style.setTv_dec(myToastStyleSelect[which]);
+            }
+        });
+        builder.setPositiveButton("取消", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }
+        });
+        builder.show();
+    }
+
+    private void initToastLocation() {
+        final SettingClickView scv_location = (SettingClickView) findViewById(R.id.scv_location);
+        scv_location.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(SettingActivity.this, LocationActivity.class));
+            }
+        });
+
+    }
+
     /**
      * 版本更新开关
      */
@@ -73,21 +110,22 @@ public class SettingActivity extends Activity {
 
     //是否显示电话归属地显示
     private void initAddress() {
+
         final SettingItemView siv_Calllocation = (SettingItemView) findViewById(R.id.siv_Calllocation);
 
 
-        final boolean open_on = ServiceUtils.isRunning(SettingActivity.this,"com.itheima.mobilesafe74.service.AddressService");//获取服务是否开启
+        final boolean open_on = ServiceUtils.isRunning(SettingActivity.this, "com.itheima.mobilesafe74.service.AddressService");//获取服务是否开启
         siv_Calllocation.setCheck(open_on);
         siv_Calllocation.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                 boolean checking=siv_Calllocation.isCheck();
-                  if(!checking){
+                boolean checking = siv_Calllocation.isCheck();
+                if (!checking) {
                     startService(new Intent(getApplicationContext(), AddressService.class));
-                  }else{
-                       stopService(new Intent(getApplicationContext(),AddressService.class));
-                  }
-                  siv_Calllocation.setCheck(!checking);
+                } else {
+                    stopService(new Intent(getApplicationContext(), AddressService.class));
+                }
+                siv_Calllocation.setCheck(!checking);
             }
         });
     }
